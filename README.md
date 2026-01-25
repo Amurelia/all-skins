@@ -4,7 +4,7 @@
 ![selection-mode](https://github.com/user-attachments/assets/7963c0fd-7df0-4fca-b1b9-a19513a8a250)
 ![gameplay](https://github.com/user-attachments/assets/543d0d8d-da17-4661-ad10-b707fc594383)
 ![gameplay2](https://github.com/user-attachments/assets/ae4c44b1-89ef-4114-91cf-06054a844fb3)
-[center]alt ver[/center]
+<p align="center">version V2</p>
 
 
 # [- Vivian](https://drive.google.com/drive/folders/1DxuHE21LaHq5_u2EorzC-t39vHOzcUB-?usp=drive_link)
