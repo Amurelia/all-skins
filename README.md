@@ -8,6 +8,7 @@
 
 
 # [- Vivian](https://drive.google.com/drive/folders/1DxuHE21LaHq5_u2EorzC-t39vHOzcUB-?usp=drive_link)
+![preview](https://github.com/user-attachments/assets/5445870c-f865-4975-abe2-5f9d101a3c76)
 ![selection-mode](https://github.com/user-attachments/assets/cb6fd0ff-57c0-43f8-9c3f-f9b9184c453e)
 ![gameplay](https://github.com/user-attachments/assets/638f70e8-0138-41a1-b216-5df672f8c722)
 
